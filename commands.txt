@@ -1,0 +1,9 @@
+git status - displays the status of the current git repo if its modified and needs update
+git init - is used to initialize the repo. making new repo and adding data to it
+git clone - is used to copy a repo. Example. git clone targetUrl optionalNewName
+git add - is used to add the file we want to track.
+git commit - is used to commit to the changes and save the snapshot. Example: git commit -m changes described
+git mv is used to move the file being tracked
+git rm is used to remove the files being tracked
+git push origin - is used to push the git changes local to github or other servers
+git --help is used to get help and learn more about the commands
